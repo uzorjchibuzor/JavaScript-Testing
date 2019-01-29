@@ -1,9 +1,8 @@
-const reverseString = (string) => {
+const reverseString = string => {
   return string
-  .split('')
-  .reverse()
-  .join('')
-}
+    .split("")
+    .reverse()
+    .join("");
+};
 
-
-module.exports = reverseString
+module.exports = reverseString;
