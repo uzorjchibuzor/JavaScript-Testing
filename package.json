@@ -1,0 +1,18 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch *.test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  },
+  "bugs": {
+    "url": "https://github.com/uzorjchibuzor/JavaScript-Testing/issues"
+  },
+  "homepage": "https://github.com/uzorjchibuzor/JavaScript-Testing#readme"
+}
